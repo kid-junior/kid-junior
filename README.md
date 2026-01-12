@@ -1,12 +1,14 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=kid-junior&label=Profile%20views&color=87ae07&style=for-the-badge" alt="kid-junior" /> </p>
+<img align="right" src="https://komarev.com/ghpvc/?username=kid-junior&label=Profile%20views&color=87ae07&style=for-the-badge" alt="kid-junior" />
 
-<h1 align="center">Hi 👋, I'm Kidus Yosef</h1>
-<h3 align="center">An Aspiring Full-Stack Developer from Ethiopia 🇪🇹</h3>
-<div align="center">
+<div align="center" >
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Kidus+Yosef!;" />
+</h1>
+<h3>An Aspiring Full-Stack Developer from Ethiopia 🇪🇹</h3>
 
 ![Learning Frontend](https://img.shields.io/badge/Learning-Frontend%20Dev-87ae07?style=for-the-badge&logo=code&logoColor=white)
 
-## 🌐 Connect with Me  
+# 🌐 Connect with Me  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kidus.yo.21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kidus.yo.21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kidus-yosef-364a29332) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AccomplishedCap534) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kidusyosef77@gmail.com) [![Upwork](https://img.shields.io/badge/Upwork-Freelancer-14A800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c59803c8b7122263) [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-26A5E4?logo=telegram&logoColor=white)](https://t.me/Junior_k21)
 
 # 💻 Tech Stack  
@@ -20,14 +22,19 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kid-junior&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-</div>
+## 👾 My Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kid-junior/kid-junior/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kid-junior/kid-junior/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kid-junior/kid-junior/output/pacman-contribution-graph.svg">
 </picture>
+<hr>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=35&center=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌;Shoot+me+a+message+on+my+socials!;I'm+always+down+to+collab+😊" />
+</h3>
+</div>
