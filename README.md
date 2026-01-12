@@ -22,7 +22,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kid-junior&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
 
-## 👾 My Contribution
+## 🕹️ My Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kid-junior/kid-junior/output/pacman-contribution-graph-dark.svg">
